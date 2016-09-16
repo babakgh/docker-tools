@@ -1,5 +1,5 @@
   tools:
-    git: git@github.com:babakgh/docker-tools.git
+    git: git@github.com:babakgh/docktor66.git
     git_branch: master
     build_root: .
     env_vars:
