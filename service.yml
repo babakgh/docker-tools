@@ -1,0 +1,7 @@
+  tools:
+    git: git@github.com:babakgh/docker-tools.git
+    git_branch: master
+    build_root: .
+    env_vars:
+      RAILS_ENV: production
+      RACK_ENV: production
